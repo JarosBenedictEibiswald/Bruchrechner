@@ -7,3 +7,7 @@
 •	falls neu zu programmieren: Bruchzahlen soll in eigenem Objekt mittels eigener Klasse angelegt werden
 
 ### Screenshot
+![screen1.png](img/screen1.png)
+
+### Funktionen
+Kürzen, Alle operatoren bis auf Umwandeln.
